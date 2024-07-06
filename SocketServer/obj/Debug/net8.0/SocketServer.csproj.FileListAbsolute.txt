@@ -1,0 +1,15 @@
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/obj/Debug/net8.0/SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/obj/Debug/net8.0/SocketServer.AssemblyInfoInputs.cache
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/obj/Debug/net8.0/SocketServer.AssemblyInfo.cs
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/obj/Debug/net8.0/SocketServer.csproj.CoreCompileInputs.cache
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/obj/Debug/net8.0/SocketServer.sourcelink.json
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/bin/Debug/net8.0/SocketServer
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/bin/Debug/net8.0/SocketServer.deps.json
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/bin/Debug/net8.0/SocketServer.runtimeconfig.json
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/bin/Debug/net8.0/SocketServer.dll
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/bin/Debug/net8.0/SocketServer.pdb
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/obj/Debug/net8.0/SocketServer.dll
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/obj/Debug/net8.0/refint/SocketServer.dll
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/obj/Debug/net8.0/SocketServer.pdb
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/obj/Debug/net8.0/SocketServer.genruntimeconfig.cache
+/Users/changwoomin/CSharpNetworkProgramming/CSharpNetworkProgramming/SocketServer/obj/Debug/net8.0/ref/SocketServer.dll
